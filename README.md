@@ -30,7 +30,7 @@ Aplicação de aprendizado de idiomas com gamificação e interface moderna.
 
 ---
 
-### 💈 [Driver App](https://github.com/lucaaspw/DriveApp)
+### 🚗 [Driver App](https://github.com/lucaaspw/DriveApp)
 O DriveApp é uma aplicação web completa e moderna de controle financeiro desenvolvida especificamente para motoristas de aplicativos (Uber, 99, InDrive).
 > Next.js | Prisma | PostgreSQL | Tailwind CSS  
 📅 Controle de Finanças | 👤 Login com OAuth | 📊 Dashboard Admin
