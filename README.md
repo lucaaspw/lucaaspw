@@ -70,7 +70,13 @@ Sistema multi-tenant para gestão de membros de igrejas.
 
 ## 📈 GitHub Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=lucaaspw&theme=dark&locale=pt)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com?user=lucaaspw&theme=tokyonight&hide_border=true) 
+
+![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=lucaaspw&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lucaaspw&layout=compact&theme=tokyonight&hide_border=true)
+
+
 
 ---
 
