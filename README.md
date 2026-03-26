@@ -30,15 +30,15 @@ Aplicação de aprendizado de idiomas com gamificação e interface moderna.
 
 ---
 
-### 💈 [Bae-barber](https://github.com/lucaaspw/bae-barber)
-Sistema de agendamento para barbearia com painel administrativo completo.
+### 💈 [Driver App](https://github.com/lucaaspw/DriveApp)
+O DriveApp é uma aplicação web completa e moderna de controle financeiro desenvolvida especificamente para motoristas de aplicativos (Uber, 99, InDrive).
 > Next.js | Prisma | PostgreSQL | Tailwind CSS  
-📅 Reservas online | 👤 Login com OAuth | 📊 Dashboard Admin
+📅 Controle de Finanças | 👤 Login com OAuth | 📊 Dashboard Admin
 
 ---
 
-### 📊 [Next Dashboard](https://github.com/lucaaspw/next-dashboard)
-Template de dashboard moderno com autenticação e layout responsivo.
+### ⛪ [Membros IPB](https://github.com/lucaaspw/IPB-MRMBROS)
+Sistema de gestão de membros para igrejas IPB com arquitetura multi-tenant, onde cada igreja possui seu próprio ambiente isolado e seguro.
 > Next.js | TypeScript | Tailwind CSS | Shadcn  
 🧪 Testes | 🔐 Clerk Auth | 📈 Gráficos e Cards
 
